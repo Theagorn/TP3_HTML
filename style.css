@@ -1,0 +1,32 @@
+caption {
+    color:chartreuse;
+    font-weight: bold;
+    text-shadow: 2px 3px 3px black;
+}
+
+table {
+    border: solid black 3px;
+    border-collapse: collapse;
+    text-align: center;
+    margin:auto;
+}
+
+th {
+    background-color: lightskyblue;
+    border: solid black 2px;
+}
+
+td {
+    border: solid black 2px;
+    background-color: lightgrey;
+}
+
+.ligne {
+    background-color: aliceblue;
+}
+
+body {
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/5797df94104379.5e763f53ddf2d.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+}
